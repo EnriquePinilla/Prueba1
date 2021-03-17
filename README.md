@@ -51,3 +51,7 @@ public static int resta( int numero1, int numero2 ) {
 	to_print=5.5
 	echo $to_print
 ```
+
+El proyecto tiene:
+- Superhéroes
+- Supervillanos
